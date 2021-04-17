@@ -17,7 +17,7 @@ Para la creación de este script, tomé el ejemplo de [marco79cgn](https://gist.
 
 ## Otros Scrips
 
-Scriptable COVID-19 Alemania 🇩🇪 por [marco79cgn](https://gist.github.com/marco79cgn/b5f291d6242a2c530e56c).
+Scriptable COVID-19 Alemania 🇩🇪 por [marco79cgn](https://gist.github.com/marco79cgn/b5f291d6242a2c530e56c748f1ae7f2c).
 
 Scriptable COVID-19 Italia 🇮🇹 por [Gualty](https://github.com/Gualty/Scriptable-COVID-19-Italia).
 
